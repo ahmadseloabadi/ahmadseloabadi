@@ -4,6 +4,8 @@
 
 <p align="left">A passionate Data Analysis, Data Science, and Full-Stack Web Development, I create data-driven solutions and build responsive, user-centered applications with a blend of analytical and development expertise.</p>
 
+<a align="center" href="[url](https://portofolio-selo.vercel.app/)">My Portofolio</a>
+
 ###
 
 <h3 align="center">SKILLS</h3>
