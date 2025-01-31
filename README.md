@@ -64,7 +64,7 @@
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadseloabadi&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadseloabadi&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
 <div align="center">
@@ -74,12 +74,12 @@
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadseloabadi&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadseloabadi&theme=react-dark&hide_border=false" alt="Contribution Graph" />
 </p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahmadseloabadi/ahmadseloabadi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahmadseloabadi/ahmadseloabadi/output/snake.svg" alt="Snake animation" width="100%"  />
 
 ###
 
