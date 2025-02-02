@@ -119,7 +119,7 @@
   <img src="https://streak-stats.demolab.com?user=ahmadseloabadi&locale=en&mode=daily&theme=react&card_width=300&border_radius=5&order=3" width="360" height="220"  alt="streak graph" />
 </div>
 
-
+<br>
 <!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadseloabadi&theme=react-dark&hide_border=false" alt="Contribution Graph" />
