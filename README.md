@@ -106,7 +106,7 @@
 <hr>
 <div align="center">
   
-# &nbsp; GitHub Statistics &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" />
+# &nbsp; GitHub Statistics &nbsp;<img src="https://github.com/ahmadseloabadi/ahmadseloabadi/blob/main/assets/icons8-combo-chart.gif" alt="Bar Chart" width="50" height="50" />
 </div>
 
 <!-- GitHub Stats Cards -->
