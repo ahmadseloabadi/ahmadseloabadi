@@ -23,11 +23,7 @@
   & build dynamic, responsive web applications that enhance user experience.</em>  
 </p>
 
-<p align="center">
-  <a href="https://portofolio-selo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</p>
+
 
 <!-- Skills Section with Categories -->
 <h2 align="center">🛠️ Technology Stack</h2>
@@ -123,6 +119,9 @@
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
+  <a href="https://portofolio-selo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ahmad-selo-abadi-832812242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -135,12 +134,12 @@
   <a href="mailto:ahmadseloabadi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <p align="center">
+  
   <a href="https://www.kaggle.com/ahmadseloabadi/" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="yourkaggle" />
   </a>
 </p>
-</p>
+
 
 <!-- Counter -->
 <div align="center">
