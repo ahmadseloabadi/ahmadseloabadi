@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+AHMAD+SELO+ABADI;Nice+to+meet+you!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+AHMAD+SELO+ABADI;Nice+to+meet+you!&center=true&size=30&duration=4000&pause=1000&color=2E9AFE&background=FFFFFF00&width=435&height=50&vCenter=true&font=Fira+Code">
 </h1>
 
 <p align="center">
@@ -135,6 +135,11 @@
   <a href="mailto:ahmadseloabadi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <p align="center">
+  <a href="https://www.kaggle.com/ahmadseloabadi/" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="yourkaggle" />
+  </a>
+</p>
 </p>
 
 <!-- Counter -->
