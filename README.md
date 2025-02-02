@@ -114,12 +114,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadseloabadi&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadseloabadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmadseloabadi&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadseloabadi&locale=en&hide_title=false&layout=compact&langs_count=5&theme=react&hide_border=false&order=2" width="400" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmadseloabadi&locale=en&mode=daily&theme=react&card_width=200&border_radius=5&order=3" width="400" height="220"  alt="streak graph" />
+</div>
 
 
 <!-- GitHub Activity Graph -->
