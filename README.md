@@ -9,9 +9,10 @@
 </p>
 
 <hr>
-
-<h2 align="center">🚀 About Me</h2>
-
+<div align="center">
+  
+# &nbsp; About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
+</div>
 <p align="center">
   <strong><span style="font-size: 24px;">Data analyst | Data Science | Full Stack Web Development</span></strong>  
 </p>  
