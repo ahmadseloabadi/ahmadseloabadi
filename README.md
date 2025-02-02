@@ -11,7 +11,16 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  A passionate Data Analysis, Data Science, and Full-Stack Web Development professional. I create data-driven solutions and build responsive, user-centered applications with a blend of analytical and development expertise.
+  <strong><span style="font-size: 24px;">Data analyst | Data Science | Full Stack Web Development</span></strong>  
+</p>  
+
+<p align="center">
+  <em>Passionate about <strong>Data analyst, Data Science,</strong> and <strong>Full-Stack Web Development</strong>.</em>  
+</p>
+
+<p align="center">
+  <em>I turn data into actionable insights to drive better decisions  
+  & build dynamic, responsive web applications that enhance user experience.</em>  
 </p>
 
 <p align="center">
