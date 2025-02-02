@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+AHMAD+SELO+ABADI....;Nice+to+meet+you!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+AHMAD+SELO+ABADI;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3 align="center">🚀 About Me</h3>
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
   <strong><span style="font-size: 24px;">Data analyst | Data Science | Full Stack Web Development</span></strong>  
