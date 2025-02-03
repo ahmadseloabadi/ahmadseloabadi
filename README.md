@@ -111,7 +111,7 @@
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadseloabadi&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadseloabadi&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" height="220"/>
 </p>
 
 <div align="center" ">
