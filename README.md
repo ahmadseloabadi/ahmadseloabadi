@@ -1,4 +1,4 @@
-<h1 align="center">
+i<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+AHMAD+SELO+ABADI;Nice+to+meet+you!&center=true&size=30&duration=4000&pause=1000&width=500&height=50&vCenter=true&font=Fira+Code">
 
 
@@ -146,7 +146,7 @@
   <a href="https://portofolio-selo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/WEB%20Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmad-selo-abadi-832812242/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmadseloabadi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ahmad.selo.abadi/" target="_blank">
